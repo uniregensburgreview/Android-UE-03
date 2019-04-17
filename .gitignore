@@ -9,7 +9,7 @@ Hallo
 # User-specific files
 *.suo
 *.user
-*.userosscache
+
 *.sln.docstates
 // dasisteintest
 # User-specific files (MonoDevelop/Xamarin Studio)
@@ -19,7 +19,7 @@ Hallo
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
-[Rr]eleases/
+[Rr]eleases/kjkj
 x64/
 x86/
 bld/
