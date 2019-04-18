@@ -7,7 +7,7 @@ Hallo
 ## THIS IS A TEST
 
 # User-specific files
-*.suo
+*.su
 *.user
 
 *.sln.docstates
