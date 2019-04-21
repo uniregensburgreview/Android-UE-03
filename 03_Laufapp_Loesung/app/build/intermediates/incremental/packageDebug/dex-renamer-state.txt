@@ -1,0 +1,4 @@
+#Mon Oct 31 10:36:53 CET 2016
+base.0=C\:\\Users\\BAUMGA56\\AndroidStudioProjects\\Uebung_03_Laufapp_Loesung\\03_Laufapp_Loesung\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\BAUMGA56\\AndroidStudioProjects\\Uebung_03_Laufapp_Loesung\\03_Laufapp_Loesung\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
