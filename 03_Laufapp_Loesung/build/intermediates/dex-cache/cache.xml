@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_1f12b7d9a0609b24d48220c08137ea3969226cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="832415934029e45d3514ab55e07c0e758f6f1af3">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\pre-dexed\debug\instant-run_18c4e6bf2ed56c67b6bc01f6b8141475a9c4d5bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc00283fcc119eeb70a9a75f905662f22a5a1a46">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1d8db84acb0c3cad2530b4663bec3a2f14ad0dda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_b8de120bce377139e1ed6062ceb58b9214c68429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_1c85dc7882876ce14dd08e62494441e0247d5fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Uebung_03_Laufapp_Loesung\03_Laufapp_Loesung\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_244d5acd5bfe31bd37be01a265306ec90ee2a614.jar" />
+    </item>
+
+</items>

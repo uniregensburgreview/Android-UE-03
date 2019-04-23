@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">LaufApp</string>
+    <string name="input_hint_km">Strecke in km</string>
+    <string name="input_hint_time">benötigte Zeit in Minuten</string>
+    <string name="input_hint_pauses">Pausenzeit in Minuten</string>
+    <string name="button_calculate">Pace und Kalorienverbrauch berechnen</string>
+    <string name="input_label_time">benötigte Laufzeit in Minuten</string>
+    <string name="input_label_km">gelaufene Strecke in km</string>
+    <string name="input_label_pauses">Pausen in Minuten</string>
+    <string name="label_result_pace">Durchschnittliche Geschwindigkeit (Pace)</string>
+    <string name="label_result_kcal">verbrauchte Kalorien</string>
+    <string name="text_result_kcal_default">- kCal</string>
+    <string name="text_result_pace_default">0:00 pro km</string>
+    <string name="text_result_kcal_suffix">kCal</string>
+    <string name="text_result_pace_suffix">pro km</string>
+    <string name="title_activity_result">Berechnungsergebnis</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
